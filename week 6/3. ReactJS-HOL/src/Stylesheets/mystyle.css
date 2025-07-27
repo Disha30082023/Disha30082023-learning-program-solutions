@@ -1,0 +1,19 @@
+.container {
+  font-family: Arial, sans-serif;
+  margin: 40px auto;
+  padding: 20px;
+  width: 400px;
+  border: 2px solid #4CAF50;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+
+h1 {
+  text-align: center;
+  color: #4CAF50;
+}
+
+p {
+  font-size: 16px;
+  margin: 8px 0;
+}
